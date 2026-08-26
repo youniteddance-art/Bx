@@ -1,0 +1,10 @@
+{
+  "appId": "dance.younited.brixumrechner",
+  "appName": "Brix Umrechner",
+  "webDir": "web",
+  "backgroundColor": "#f1f3f7",
+  "android": {
+    "backgroundColor": "#f1f3f7",
+    "allowMixedContent": false
+  }
+}
